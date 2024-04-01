@@ -114,6 +114,8 @@ while True:
         print(sum)
 
 ```
+
+
 <div dir="rtl">
 
 #### שאלה 4:
